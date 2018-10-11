@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/clm1100/redisAndNode/issues"
   },
-  "homepage": "https://github.com/clm1100/redisAndNode#readme"
+  "homepage": "https://github.com/clm1100/redisAndNode#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
 }
